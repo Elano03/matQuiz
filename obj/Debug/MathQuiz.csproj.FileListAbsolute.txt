@@ -1,0 +1,10 @@
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\Abdallah\Documents\Visual Studio 2022\Projet\MathQuiz\obj\Debug\MathQuiz.pdb
